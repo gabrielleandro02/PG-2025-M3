@@ -12,10 +12,38 @@ Projeto desenvolvido para a disciplina de Processamento Gráfico, implementando 
 O jogo apresenta uma grade de 6x8 quadrados com cores geradas aleatoriamente. Ao clicar em um quadrado, todos os quadrados com cores similares são eliminados. O desafio é limpar toda a grade maximizando a pontuação
 
 Exemplo jogando:
-![alt text](image.png)
 
-Após algumas remoções (pontuação mostrada no console abaixo):
-![alt text](image-1.png)
+## Tela inicial
+
+![alt text](image-2.png)
+
+## Primeiro clique
+
+![alt text](image-3.png)
+
+## Segundo clique
+
+![alt text](image-4.png)
+
+## Terceiro clique
+
+![alt text](image-5.png)
+
+## Quarto clique
+
+![alt text](image-6.png)
+
+## Quinto clique
+
+![alt text](image-7.png)
+
+## Sexto clique
+
+![alt text](image-8.png)
+
+## Sétimo clique FINAL
+
+![alt text](image-9.png)
 
 ## Regras
 
